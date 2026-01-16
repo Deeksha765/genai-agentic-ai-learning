@@ -1,6 +1,14 @@
-# genai-agentic-ai-learning
-This repository contains hands-on learning projects related to
-Generative AI, Agentic AI concepts, and Python-based applications.
+# GenAI Chatbot
 
-Currently includes:
-- A basic Python chatbot (learning project)
+A simple Python-based chatbot built to understand the fundamentals of
+Generative AI, prompt engineering, and conversational workflows.
+
+Features:
+- Interactive command-line chatbot
+- Context-based responses
+- Modular code design
+- Easy to extend with LLM APIs (OpenAI / Amazon Bedrock)
+
+Tech Stack:
+- Python
+- Generative AI concepts
